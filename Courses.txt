@@ -1,0 +1,4 @@
+UG,IT109-DL,Intro Comp Prog,Jane Doe,Online
+UG,IT209,Intro OO Prog,Deborah Rai,FX,ENGR1234,35
+G,AIT725,Intro NLP,Jane Doe,FX,HORI4456,35
+UG,IT406-DL,Data Struct & Algo,Goerge Washington,Online
